@@ -1,0 +1,8 @@
+.completed {
+    text-decoration: line-through;
+    color: gray;
+}
+.task-link {
+    color: black;
+    font-weight: bold; 
+}
